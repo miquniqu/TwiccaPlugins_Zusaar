@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- フィールド部分関連 -->
+	<color name="field_back_select_alpha">#88CCCCCC</color>
+	
+	<!-- 背景関連 -->
+	<color name="back_divider">#FF202020</color>
+	<color name="back_default">#FF181818</color>
+	<color name="back_select">#FF303030</color>
+	
+	<!-- テキスト関連 -->
+	<color name="text_default">#FFF8F8F8</color>
+	<color name="text_glay">#FF989898</color>
+				
+</resources>

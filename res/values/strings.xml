@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">twicca Zusaar プラグイン</string>
+    <string name="plugin_name_event">Zusaar プラグイン</string>
+    <string name="plugin_name_join">Zusaar プラグイン</string>
+    <string name="main_label">Zusaarを見る</string>
+    <string name="setting_label">Zusaarを見る</string>
+    <string name="daialog_label">名前</string>
+
+    <!-- ダイアログ -->
+	<string name="dlgtitle_wait">通信中</string>
+	<string name="dlgmsg_wait">ちょっと待ってね</string>
+	<string name="dlgtitle_screenname">表示履歴</string>
+	<string name="dlgfavo_msg_info">長押しでお気に入りに設定できます</string>
+		
+    <!-- 外部アクセス -->
+    <string name="user_agent">miquniqu/twicca Zusaar plug-in</string>
+
+    <!-- TOAST -->
+	<string name="event_toast">ZusaarのイベントURLを開きます</string>
+	<string name="connect_toast">通信エラーが発生しました</string>
+	<string name="history_toast">ユーザー履歴がありません</string>
+	
+	<!-- イベント一覧の項目 -->
+	<string name="event_info">のイベント一覧</string>
+	<string name="event_info_owner">主催するイベント</string>
+	<string name="event_info_join">参加するイベント</string>
+	<string name="event_noitem">イベント情報がありません</string>
+	<!-- 参加者一覧の項目 -->
+	<string name="user_info">「?」の参加者一覧</string>
+	<string name="user_noitem">参加者情報がありません</string>
+
+	<!-- ITEMNAME -->
+	<string name="itemname_date">日時:</string>
+	<string name="itemname_datesep">～</string>
+	<string name="itemname_datenone">日時:未定</string>
+	<string name="itemname_none">未入力</string>
+	<string name="itemname_address">住所:</string>
+	<string name="itemname_ownernickname">主催:</string>
+	<string name="itemname_pay_type_0">[無料]</string>
+	<string name="itemname_pay_type_1">[有料(会場)]</string>
+	<string name="itemname_pay_type_2">[有料(前払)]</string>
+	<string name="itemname_limit">定員</string>
+	<string name="itemname_accepted">参加</string>
+	<string name="itemname_waiting">補欠</string>
+
+	<string name="itemname_user_status_accepted">[出席]</string>
+	<string name="itemname_user_status_waiting">[キャンセル待ち]</string>
+
+	<!-- イベント一覧のダイアログ -->
+	<string name="daialog_mesage_event_0">ブラウザで確認する</string>
+	<string name="daialog_mesage_event_1">参加者一覧を検索する</string>
+	<string name="daialog_mesage_event_2">のプロフィール</string>
+	<string name="daialog_mesage_event_3">にイベント情報をツイート</string>
+	<string name="daialog_mesage_event_4">イベント情報をツイート</string>
+
+	<string name="daialog_mesage_user_0">のプロフィール</string>
+	<string name="daialog_mesage_user_1">にイベント情報をツイート</string>
+
+</resources>
